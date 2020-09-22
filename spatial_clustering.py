@@ -96,7 +96,7 @@ def get_centermost_point(cluster):
 
 centermost_points = clusters.map(get_centermost_point)
 # print(centermost_points)
-centermost_points.to_csv("centre.csv", index=False)
+#centermost_points.to_csv("centre.csv", index=False)
 lats, lons = zip(*centermost_points)
 rep_points = pd.DataFrame({"lat": lats, "lon": lons})
 rs = rep_points
