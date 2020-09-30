@@ -1,3 +1,3 @@
 # Density based spatial clustering
 
-An example of using density based spatial clustering to indentify areas of interest
+This repository contains code and documentation for generating density based spatial clustering to indentify areas of interest.
