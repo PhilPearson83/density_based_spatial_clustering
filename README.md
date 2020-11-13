@@ -20,11 +20,6 @@ This repository contains code and documentation for generating density based spa
 │   │   ├── DSFRS_Service_Area.qpj
 │   │   ├── DSFRS_Service_Area.shp
 │   │   ├── DSFRS_Service_Area.shx
-│   │   ├── MSOAs.cpg
-│   │   ├── MSOAs.dbf
-│   │   ├── MSOAs.prj
-│   │   ├── MSOAs.shp
-│   │   ├── MSOAs.shx
 │   └── images
 │   │    ├── SampleMap.gif
 ├── example
@@ -32,12 +27,12 @@ This repository contains code and documentation for generating density based spa
 │   └── SampleMap.gif
 ├── └── dsfrs_stations.csv
 ├── .gitignore
-├── CV19_Choropleth.ipynb
-├── CV19_Choropleth_with_gif_output.ipynb
-├── CV19_Choropleth_with_gif_output_alt.ipynb
 ├── Licence
 ├── README.md
-└── requirements.txt
+├── ers_failures.sql
+├── requirements.txt
+├── spatial_clustering.ipynb
+└── spatial_clustering.py
 ```
 ## Getting Started.
 
