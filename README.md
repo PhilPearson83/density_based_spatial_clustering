@@ -1,9 +1,9 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/CV19_Choropleth/main?filepath=CV19_Choropleth.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/density_based_spatial_clustering/HEAD?filepath=spatial_clustering.ipynb)
 
 # Density based spatial clustering
 This repository contains code and documentation for generating density based spatial clustering to identify areas of interest.
 
-![us](./example/positive_cases_wk_42.png)
+![us](./example/example.png)
 
 # Pre-requisites
 
