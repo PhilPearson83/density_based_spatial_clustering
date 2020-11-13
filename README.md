@@ -22,8 +22,7 @@ This repository contains code and documentation for generating density based spa
 │   │   ├── DSFRS_Service_Area.shx
 │   └── dsfrs_stations.csv
 ├── example
-│   ├── positive_cases_wk_42.png
-│   └── SampleMap.gif
+│   ├── example.png
 ├── .gitignore
 ├── Licence
 ├── README.md
