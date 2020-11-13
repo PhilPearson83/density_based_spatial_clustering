@@ -1,5 +1,5 @@
 # Density based spatial clustering
-This repository contains code and documentation for generating density based spatial clustering to indentify areas of interest.
+This repository contains code and documentation for generating density based spatial clustering to identify areas of interest.
 
 ## Getting Started.
 
