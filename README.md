@@ -16,10 +16,11 @@ This repository contains example code and documentation for clustering data usin
 │   │   ├── DSFRS_Service_Area.prj
 │   │   ├── DSFRS_Service_Area.qpj
 │   │   ├── DSFRS_Service_Area.shp
-│   │   ├── DSFRS_Service_Area.shx
+│   │   └── DSFRS_Service_Area.shx
 │   └── dsfrs_stations.csv
 ├── example
 │   ├── example.png
+│   └── example_data.csv
 ├── .gitignore
 ├── Licence
 ├── README.md
