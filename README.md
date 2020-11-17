@@ -1,7 +1,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/density_based_spatial_clustering/HEAD?filepath=spatial_clustering.ipynb)
 
-# Density based spatial clustering
-This repository contains code and documentation for generating density based spatial clustering to identify areas of interest.
+# Density Based Clustering of Applications with Noise (DBSCAN)
+This repository contains example code and documentation for clustering data using dbscan algorithm and displaying the resultant output on map generated using Folium.
 
 ![us](./example/example.png)
 
