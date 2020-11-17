@@ -1,12 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/density_based_spatial_clustering/HEAD?filepath=spatial_clustering.ipynb)
 
 # Density Based Clustering of Applications with Noise (DBSCAN)
-This repository contains example code and documentation for clustering data using dbscan algorithm and displaying the resultant output on map generated using Folium.
+This repository contains example code and documentation for clustering data using dbscan algorithm and displaying the resultant output on a map generated using Folium.
 
 ![us](./example/example.png)
-
-# Pre-requisites
-
 
 # Directory Layout
 
@@ -40,7 +37,7 @@ git clone https://github.com/PhilPearson83/density_based_spatial_clustering.git
 cd density_based_spatial_clustering
 ```
 
-This project is written in [`Python`](https://www.python.org/) and depends on the following packages:
+This project is written in [`Python`](https://www.python.org/) and depends on the packages in the requirements.txt:
 
 You can install these packages by running the following command in the project's root directory:
 
