@@ -27,6 +27,7 @@ parso==0.7.1
 pickleshare==0.7.5
 Pillow==8.0.1
 prompt-toolkit==3.0.8
+pygeos==0.8
 Pygments==2.7.2
 pyparsing==2.4.7
 pyproj==3.0.0.post1
