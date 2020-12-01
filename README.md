@@ -26,8 +26,7 @@ This repository contains example code and documentation for clustering data usin
 ├── README.md
 ├── ers_failures.sql
 ├── requirements.txt
-├── spatial_clustering.ipynb
-└── spatial_clustering.py
+└── spatial_clustering.ipynb
 ```
 ## Getting Started.
 
