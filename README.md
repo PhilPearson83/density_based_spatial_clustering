@@ -10,7 +10,7 @@ This repository contains example code and documentation for clustering using dbs
 
 ---
 
-_Contents:_ **[Installation](#installation)** | **[🚀 Quick Start](#-quick-start)**
+_Contents:_ **[Directory Layout](#Directory Layout)** | **[Installation](#installation)** | **[🚀 Quick Start](#-quick-start)**
 | **[Colors](#colors)**
 | **[How does it save my time?](#how-does-it-save-my-time)** | 
 **[Examples and recipes](#examples-and-recipes)** | **[Reference](#reference)**
