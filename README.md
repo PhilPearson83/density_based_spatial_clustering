@@ -8,6 +8,16 @@ This repository contains example code and documentation for clustering using dbs
 
 ![us](./example/example.png)
 
+---
+
+_Contents:_ **[Installation](#installation)** | **[🚀 Quick Start](#-quick-start)**
+| **[Colors](#colors)**
+| **[How does it save my time?](#how-does-it-save-my-time)** | 
+**[Examples and recipes](#examples-and-recipes)** | **[Reference](#reference)**
+| **[FAQ](#faq)**
+
+---
+
 # Directory Layout
 
 ```
