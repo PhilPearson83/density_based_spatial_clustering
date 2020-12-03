@@ -6,8 +6,6 @@ This repository contains example code and documentation for clustering using dbs
 <a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/density_based_spatial_clustering"></a>
 <a href="https://github.com/PhilPearson83/density_based_spatial_clustering"><img alt="PyPI" src="https://img.shields.io/badge/python-3.7+-blue.svg"></a>
 
-This repository contains example code and documentation for clustering data using dbscan algorithm and displaying the resultant output on a map generated using Folium.
-
 ![us](./example/example.png)
 
 # Directory Layout
