@@ -57,3 +57,6 @@ You can install these packages by running the following command in the project's
 # pip install requirements.txt 
 ```
 ### 🚀 Quick Start
+
+
+### FAQ
