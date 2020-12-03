@@ -41,7 +41,6 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 ├── requirements.txt
 └── spatial_clustering.ipynb
 ```
-## Getting Started.
 
 ### Installation
 First clone the repository and navigate to the project's root directory:
