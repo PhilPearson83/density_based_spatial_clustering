@@ -3,7 +3,8 @@
 This repository contains example code and documentation for clustering using dbscan algorithm and displaying the resultant output on a map generated using Folium.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/density_based_spatial_clustering/HEAD?filepath=spatial_clustering.ipynb)
-<a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/andy-landy/traceback_with_variables?color=informational"></a>
+<a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/density_based_spatial_clustering"></a>
+
 <a href="https://pypi.org/project/traceback_with_variables/"><img alt="PyPI" src="https://img.shields.io/badge/python-3.5+-blue.svg"></a>
 
 This repository contains example code and documentation for clustering data using dbscan algorithm and displaying the resultant output on a map generated using Folium.
