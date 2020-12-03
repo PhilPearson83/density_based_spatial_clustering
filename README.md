@@ -58,5 +58,14 @@ You can install these packages by running the following command in the project's
 ```
 ### 🚀 Quick Start
 
+### Reference
+
+#### All functions have output customization
+* `max_value_str_len` max length of each variable string, -1 to disable, default=1000
+* `max_exc_str_len` max length of exception, should variable print fail, -1 to disable, default=10000
+* `num_context_lines` number of lines around the target code line to print, default=1
+* `ellipsis_` string to denote long strings truncation, default=`...`
+* `file_` where to print exception, a file or a wrapped logger, default=`sys.stderr` i.e. usual printing to console
+* `color_scheme` one of <a href="https://github.com/andy-landy/traceback_with_variables/tree/master/traceback_with_variables/color.py">`ColorSchemes`</a>: `.auto`, `.none` , `.common`, `.nice`, `.synthwave` 
 
 ### FAQ
