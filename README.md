@@ -45,9 +45,7 @@ git clone https://github.com/PhilPearson83/density_based_spatial_clustering.git
 cd density_based_spatial_clustering
 ```
 
-This project is written in [`Python`](https://www.python.org/) and depends on the packages in the requirements.txt.
-
-You can install these packages by running the following command in the project's root directory:
+This project is written in [`Python`](https://www.python.org/) and depends on a number packages to be installed. You can install these packages by running the following command in the project's root directory:
 
 ```bash
 # pip install requirements.txt 
