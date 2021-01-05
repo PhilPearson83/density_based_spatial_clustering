@@ -1,6 +1,6 @@
 # Density Based Clustering of Applications with Noise (DBSCAN)
 
-This repository contains example code and documentation for clustering using dbscan algorithm and displaying the output on a map generated using Folium.
+This repository contains example code and documentation for clustering geospatial data using a dbscan algorithm. This includes importing data in different formats (e.g. shapefile, GeoJSON), visualizing, combining and tidying them up for analysis, exploring spatial relationships, ... and will use libraries such as pandas, geopandas, shapely, pyproj, matplotlib, ... displaying the final output as a map generated using Folium.
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/PhilPearson83/density_based_spatial_clustering/HEAD?filepath=spatial_clustering.ipynb)
 <a href="https://github.com/PhilPearson83/density_based_spatial_clustering/blob/master/LICENSE"><img alt="License: MIT" src="https://img.shields.io/github/license/PhilPearson83/density_based_spatial_clustering"></a>
