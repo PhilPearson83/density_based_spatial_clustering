@@ -44,7 +44,7 @@ First clone the repository and navigate to the project's root directory:
 git clone https://github.com/PhilPearson83/density_based_spatial_clustering.git
 # navigate to the downloaded (or git cloned) material
 cd ./density_based_spatial_clustering/
-# navigate to the downloaded (or git cloned) material
+# creating a virtual environment called "env"
 python -m venv env
 # activating the environment
 source env/Scripts/activate
