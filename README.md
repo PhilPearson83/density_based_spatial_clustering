@@ -42,13 +42,18 @@ _Contents:_ **[Directory Layout](#Directory-Layout)** | **[Installation](#instal
 First clone the repository and navigate to the project's root directory:
 ```bash
 git clone https://github.com/PhilPearson83/density_based_spatial_clustering.git
-cd density_based_spatial_clustering
+# navigate to the downloaded (or git cloned) material
+cd ./density_based_spatial_clustering/
+# navigate to the downloaded (or git cloned) material
+python -m venv env
+# activating the environment
+source env/Scripts/activate
 ```
 
 This project is written in [`Python`](https://www.python.org/) and depends on a number packages to be installed. You can install these packages by running the following command in the project's root directory:
 
 ```bash
-# pip install requirements.txt 
+pip install requirements.txt 
 ```
 ### 🚀 Quick Start
 
