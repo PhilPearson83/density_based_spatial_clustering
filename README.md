@@ -57,6 +57,14 @@ pip install requirements.txt
 ```
 ### 🚀 Quick Start
 
+## Step 1 : Start Jupyter Notebook
+```bash
+jupyter notebook
+```
+## Step 2 : Execute Code 
+
+Open `spatial_clustering.ipynb.ipynb` file and rull all cells.
+
 ### Reference
 
 #### All functions have output customization
