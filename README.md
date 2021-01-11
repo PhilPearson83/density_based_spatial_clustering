@@ -71,7 +71,5 @@ Open `spatial_clustering.ipynb.ipynb` file and rull all cells.
 * `max_value_str_len` max length of each variable string, -1 to disable, default=1000
 * `max_exc_str_len` max length of exception, should variable print fail, -1 to disable, default=10000
 * 
-* 
-* 
 
 ### FAQ
